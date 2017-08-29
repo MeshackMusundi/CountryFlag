@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CountryFlag
+</name>
+</assembly>
+<members>
+<member name="T:CountryFlag.CountryFlag">
+<summary>
+CountryFlag
+</summary>
+</member>
+<member name="M:CountryFlag.CountryFlag.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

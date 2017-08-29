@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Flags
+</name>
+</assembly>
+<members>
+<member name="T:Flags.App">
+<summary>
+App
+</summary>
+</member>
+<member name="M:Flags.App.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:Flags.App.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:Flags.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:Flags.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>
