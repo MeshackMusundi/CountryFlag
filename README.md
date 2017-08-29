@@ -9,7 +9,7 @@ CountryFlag is a WPF user control for displaying the flag of any one of the 249 
 
 # Usage
 
-Install the WPF user control library by running the following command in the NuGet Package Manager Console,
+Install the CountryFlag NuGet package by running the following command in the NuGet Package Manager Console,
 ```
 Install-Package CountryFlag -Version 2.1.0
 ```
