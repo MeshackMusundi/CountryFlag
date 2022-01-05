@@ -1,13 +1,16 @@
+## NOTE!
+This library is no longer being maintained. Use the [updated](https://github.com/MeshackMusundi/CountryFlag.Wpf) version which works with .NET Core and has more and up-to-date flags.
+
 # CountryFlag
 
 ![Flags screenshot](https://www.codeproject.com/KB/WPF/WpfCountryFlagControl/Flags.png)
 
-CountryFlag is a WPF user control for displaying the flag of any one of the 249 countries and territories assigned with an ISO 3166-1 alpha-2 code. 
+CountryFlag is a WPF user control for displaying the flag of any one of the 249 countries and territories assigned with an ISO 3166-1 alpha-2 code.
 
 ## Requirements
 - .NET Framework 4.6 
 
-# Usage
+## Usage
 
 Install the CountryFlag NuGet package by running the following command in the NuGet Package Manager Console,
 ```
